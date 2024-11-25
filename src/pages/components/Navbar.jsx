@@ -58,7 +58,7 @@ const Navbar = () => {
         { name: "Bachelor of Science in Nursing", href: "/courses/bsn" },
         {
           name: "Bachelor of Science in Electrical Engineering",
-          href: "/courses/bsee",
+          href: "/components/bsee",
         },
         {
           name: "Bachelor of Science in Electronics Engineering",
