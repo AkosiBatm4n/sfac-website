@@ -38,7 +38,7 @@ const bsee = () => {
     <div class="flex flex-wrap -m-4 place-content-center">
          <div class="p-4 xl:w-1/4 xl:w-1/2 w-full">
         <div class="h-full p-6 rounded-lg border-2 border-red-500 flex flex-col relative overflow-hidden">
-          <h1 class="text-4xl text-gray-900 leading-none flex items-center pb-4 mb-4 border-b border-gray-200">
+          <h1 class="text-3xl text-gray-900 leading-none flex items-center pb-4 mb-4 border-b border-gray-200">
             <span>FRESHMEN ADMISSION</span>
           </h1>
           <p class="flex items-center text-gray-600 mb-2">
@@ -80,7 +80,7 @@ const bsee = () => {
       </div>
       <div class="p-4 xl:w-1/4 xl:w-1/2 w-full">
         <div class="h-full p-6 rounded-lg border-2 border-red-500 flex flex-col relative overflow-hidden">
-          <h1 class="text-4xl text-gray-900 leading-none flex items-center pb-4 mb-4 border-b border-gray-200">
+          <h1 class="text-3xl text-gray-900 leading-none flex items-center pb-4 mb-4 border-b border-gray-200">
             <span>TRANSFEREES</span>
           </h1>
           <p class="flex items-center text-gray-600 mb-2">
